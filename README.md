@@ -29,5 +29,5 @@ body{
 
 我的网站 [我常用的中文索网站](http://www.baidu.com)
 
-我喜欢的塔罗牌 ![太阳](sun.jpg)
+我喜欢的图片 ![太阳](sun.jpg)
  
